@@ -13,7 +13,7 @@ if (isset($_SESSION['is_logged_in']) && $_SESSION['is_logged_in']) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Login - Toko Item Game</title>
+  <title>Login - TheSongsIsYours</title>
   <link rel="stylesheet" href="../public/css/style.css" />
   <script src="../public/js/login.js" defer></script>
 </head>
